@@ -8,6 +8,10 @@ Futher we have analysed the tweets and it's replies level wise.For analysis we h
 We have used package named : germansentiment
 <br/>
 <br/>
+On running Optimised extraction code file we will get 3 file <br/>
+1. Contains all the main file <br/>
+2. Contains all the replies <br/>
+3. Contains formated main tweets and each level wise replies <br/>
 <hr/>
 <hr/>
 Author:-<a href="https://github.com/TITHI007">Tithi</a><br/>
