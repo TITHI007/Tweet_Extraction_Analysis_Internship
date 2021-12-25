@@ -1,9 +1,9 @@
 # Tweet_Extraction_Analysis_Internship
-##A code to fetch the tweets and it's all level replies of a particular hastag using Twitter version 2 API.
+A code to fetch the tweets and it's all level replies of a particular hastag using Twitter version 2 API.
 <br/>
 <br/>
 
-Futher Tweets inside json file are being analysed along with it's replies level wise.For analysis model used is: "oliverguhr/german-sentiment-bert" 
+Futher Tweets inside json file are being analysed along with it's replies level wise.For analysis model used is: <a href="https://github.com/oliverguhr/german-sentiment-lib">"oliverguhr/german-sentiment-bert" </a>
 We have used package named : germansentiment
 <br/>
 <br/>
