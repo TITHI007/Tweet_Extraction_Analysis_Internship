@@ -3,7 +3,7 @@ A code to fetch the tweets and it's all level replies of a particular hastag usi
 <br/>
 <br/>
 
-Futher Tweets inside json file are being analysed along with it's replies level wise.For analysis model used is: <a href="https://github.com/oliverguhr/german-sentiment-lib">"oliverguhr/german-sentiment-bert" </a>
+Futher Tweets inside json file are being analysed along with it's replies level wise.For analysis model used is: <a href="https://github.com/oliverguhr/german-sentiment-lib"  target="_blank" rel="noopener noreferrer">"oliverguhr/german-sentiment-bert" </a>
 We have used package named : germansentiment
 <br/>
 <br/>
