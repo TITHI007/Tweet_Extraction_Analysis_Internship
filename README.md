@@ -1,10 +1,9 @@
 # Tweet_Extraction_Analysis_Internship
-
-We have written a code to fetch the tweets and it's all level replies of a particular hastag using Twitter version 2 API.
+##A code to fetch the tweets and it's all level replies of a particular hastag using Twitter version 2 API.
 <br/>
 <br/>
 
-Futher we have analysed the tweets and it's replies level wise.For analysis we have used model name: "oliverguhr/german-sentiment-bert" 
+Futher Tweets inside json file are being analysed along with it's replies level wise.For analysis model used is: "oliverguhr/german-sentiment-bert" 
 We have used package named : germansentiment
 <br/>
 <br/>
@@ -14,6 +13,7 @@ On running Optimised extraction code file we will get 3 file <br/>
 3. Contains formated main tweets and each level wise replies <br/>
 <br/>
 On running Optimised analysis final we will get 1 csv file <br/>
+Further while running Combine csv file, it will merge all the csv created by Optimised analysis code and will futher give 1 csv file containing all the data.
 <hr/>
 <hr/>
 Author:-<a href="https://github.com/TITHI007">Tithi</a><br/>
